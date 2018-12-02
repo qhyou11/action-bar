@@ -1,0 +1,10 @@
+{
+  "identifier": "tk.myqq.action_bar",
+  "name": "action bar plugin",
+  "content_type": "SN|Component",
+  "area": "editor-stack",
+  "version": "1.1.1",
+  "description": "action bar.",
+  "url": "https://p5.myqq.tk",
+  "download_url": "https://github.com/qhyou11/action-bar/archive/1.1.1_n.zip"
+}
