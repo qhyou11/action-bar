@@ -1,0 +1,8 @@
+
+https://p1.myqq.tk/action-bar/ext.json
+https://p1.myqq.tk/advanced-markdown-editor/ext.json
+https://p1.myqq.tk/plus-editor/ext.json
+https://p1.myqq.tk/folders-component/ext.json
+https://p1.myqq.tk/autocomplete-tags/ext.json
+https://p1.myqq.tk/simple-task-editor/ext.json
+
